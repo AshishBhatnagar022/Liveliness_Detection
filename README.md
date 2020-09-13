@@ -25,3 +25,6 @@ Input Footage could be taken from the webcam directly or through RTSP. Through W
 
 <h3>Results</h3>
 The model sucessfully detects spoofed and real faces.
+
+
+![result_g2](https://user-images.githubusercontent.com/50323194/93018319-8626d400-f5ec-11ea-85f1-df7229302afd.PNG)
