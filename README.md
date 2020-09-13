@@ -28,3 +28,8 @@ The model sucessfully detects spoofed and real faces.
 
 
 ![result_g2](https://user-images.githubusercontent.com/50323194/93018319-8626d400-f5ec-11ea-85f1-df7229302afd.PNG)
+
+
+
+<h3>Acknowledgement</h3>
+I would like to thank Adrien from pyimagesearch for his useful blog on the same.
